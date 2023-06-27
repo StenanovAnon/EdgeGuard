@@ -17,13 +17,11 @@
 
 | Feature/OS | Windows |
 |-----------------|---------|
-| https://edgeguard.business/eset.mp4 | ✔ |
-| https://edgeguard.business/bypassavira.mp4 | ✔ |
-| https://edgeguard.business/bypasscomodofirewall.mp4 | ✔ |
-| https://edgeguard.business/bypasskasperskyendpoint.mp4 | ✔ |
-| https://edgeguard.business/bypasspandaantivirus.mp4 | ✔ |
-| https://edgeguard.business/bypassquickhealpro.mp4 | ✔ |
-| https://edgeguard.business/bypasssophosendpoint.mp4 | ✔ |
+| https://t.me/edgeguardprivate/6 | ✔ |
+| https://t.me/edgeguardprivate/7 | ✔ |
+| https://t.me/edgeguardprivate/8 | ✔ |
+| https://t.me/edgeguardprivate/9 | ✔ |
+| https://t.me/edgeguardprivate/10 | ✔ |
 | More. | ✔ |
 
 ---
@@ -50,7 +48,15 @@ If you are experiencing issues with Windows Defender flagging non-virus files, G
 If you have any questions, you can contact me on **Telegram: [@edgeguardprivate](https://t.me/edgeguardprivate)**
 
 -------------------------------------------------------------------
+![IMG_202306271255450](https://github.com/StepanovAnon/EdgeGuard/assets/137941868/d7655ddc-c0a0-49af-88ad-6443036e9c22)
+![IMG_202306271255451](https://github.com/StepanovAnon/EdgeGuard/assets/137941868/c639f41d-24a5-427d-92b1-45485141ff56)
+![IMG_202306271255452](https://github.com/StepanovAnon/EdgeGuard/assets/137941868/38ef3210-7414-44a1-82e3-84080b3346af)
+![IMG_202306271255453](https://github.com/StepanovAnon/EdgeGuard/assets/137941868/f7e3d85b-0444-4931-9523-defc385bef05)
 
+
+
+
+-------------------------------------------------------------------
 This Tool is Designed To Protect Your Files Against Reverse Engineers.
 
 This Tool Shouldn't Be Used For Malicious Purposes.

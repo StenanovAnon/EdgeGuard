@@ -62,3 +62,9 @@ This Tool is Designed To Protect Your Files Against Reverse Engineers.
 This Tool Shouldn't Be Used For Malicious Purposes.
 
 If You're Going to Use It Maliciously, You Bear The Full Responsibility.
+
+
+##### CONTACT ME
+
+##### - [TELEGRAM CHANNEL](https://t.me/edgeguardprivate)
+##### - [@StepanovAnon](https://t.me/StepanovAnon)

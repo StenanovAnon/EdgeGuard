@@ -67,4 +67,4 @@ If You're Going to Use It Maliciously, You Bear The Full Responsibility.
 ##### CONTACT ME
 
 ##### - [TELEGRAM CHANNEL](https://t.me/edgeguardprivate)
-##### - [@StepanovAnon](https://t.me/StepanovAnon)
+##### - [@StenanovAnon](https://t.me/StenanovAnon)
